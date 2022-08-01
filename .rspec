@@ -1,0 +1,3 @@
+--require spec_helper
+
+DatabaseConnection.connect('music_library_test')
